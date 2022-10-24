@@ -1,1 +1,1 @@
-# plan9
+# study list
